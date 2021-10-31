@@ -40,4 +40,4 @@ Nourian Najafabadi, A. (2021). **Design, Evaluation, and Application of Seemon H
 [nl]: https://github.com/jramshur/HRVAS/wiki/Nonlinear
 [tf]: https://github.com/jramshur/HRVAS/wiki/Time-Freq
 [batch]: https://github.com/jramshur/HRVAS/wiki/Batch-Processing
-## Contact Info
+

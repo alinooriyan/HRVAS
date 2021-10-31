@@ -6,10 +6,10 @@ HRVAS was orignally hosted at Sourceforge.com were it has been downloaded almost
 
 ### Citations
 
-Ramshur, J. (2010). **Design, Evaluation, and Application of Heart Rate Variability Analysis Software (HRVAS)**. Masters Thesis. University of Memphis, Memphis, TN.
+Ramshur, J. (2010). Design, Evaluation, and Application of Heart Rate Variability Analysis Software (HRVAS). Masters Thesis. University of Memphis, Memphis, TN.
 
+Nourian Najafabadi, A. (2021). **Design, Evaluation, and Application of Seemon Heart Rate Variability Analysis Software (SHRVAS)**. University of Zhengzhou.
 
-![](https://raw.githubusercontent.com/wiki/jramshur/HRVAS/images/TF-Waterfall.png)
 
 ## Wiki
 
@@ -41,23 +41,3 @@ Ramshur, J. (2010). **Design, Evaluation, and Application of Heart Rate Variabil
 [tf]: https://github.com/jramshur/HRVAS/wiki/Time-Freq
 [batch]: https://github.com/jramshur/HRVAS/wiki/Batch-Processing
 ## Contact Info
-
-John T. Ramshur, PhD  
-jramshur@gmail.com  
-LinkedIn: [http://www.linkedin.com/in/johnramshur](http://www.linkedin.com/in/johnramshur)  
-Blog: [http://www.johnramshur.com](http://www.johnramshur.com)
-
-Project was part of my Masters thesis while at:
-
-Joint Program in Biomedical Engineering  
-[University of Memphis](http://www.memphis.edu/bme/)  
-[University of Tennessee Health Science Center](http://www.uthsc.edu/bme/)
-Advisor: Amy de Jongh Curry, PhD
-	
-## License
-
-GNU General Public License 3.0
-
-This program is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the GNU General Public License for more details.
-
-You should have received a copy of the GNU General Public License along with this program.  If not, see <http://www.gnu.org/licenses/>.
